@@ -1,0 +1,2 @@
+* DjangoTuto
+Official tutorial from the [[https://www.djangoproject.com/][django website]]
